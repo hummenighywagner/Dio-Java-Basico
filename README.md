@@ -1,7 +1,7 @@
 # Dio-Java-Basico
 <h2> Java + Cloud </h2>
 
-<h3>epositório para salvar conteúdo do Bootcamp Java + Cloud Dio em parceria com o Banco Bradesco.</h3>
+<h3>Repositório para salvar conteúdo do Bootcamp Java + Cloud Dio em parceria com o Banco Bradesco.</h3>
 
 <ul> <h2>Conteúdo a aprender</h2>
 <h3>
